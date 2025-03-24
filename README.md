@@ -15,8 +15,6 @@ Bem-vindo ao repositório do projeto **Curiosidades de Tecnologia**! Este é um 
 - Vídeo incorporado do YouTube
 - Lista das versões do Android com nomes de doces 🍩🎂🍭
 
-## 📷 Captura de Tela
-![Captura de Tela do Projeto](imagens/screenshot.png)
 
 ## 📂 Estrutura de Arquivos
 ```
